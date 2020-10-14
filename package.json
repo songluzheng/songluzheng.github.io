@@ -1,0 +1,19 @@
+{
+  "name": "songluzheng.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "jekyll serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/songluzheng/songluzheng.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/songluzheng/songluzheng.github.io/issues"
+  },
+  "homepage": "https://github.com/songluzheng/songluzheng.github.io#readme"
+}
