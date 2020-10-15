@@ -2,9 +2,8 @@
   "name": "songluzheng.github.io",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
-    "dev": "jekyll serve"
+    "dev": "jekyll serve --trace"
   },
   "repository": {
     "type": "git",
