@@ -1,18 +1,10 @@
 ---
 layout: page
-title: About
+title: 关于
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+### 宋鲁郑
+旅法学者，复旦大学中国研究院研究员  
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+> 当代欧洲华人社会著名的时事评论员、时事撰稿人、政论家、国际政治问题专家、旅法政治学者。多次访问台湾地区，对两岸关系有着独到见解。现任复旦大学中国研究院研究员，共青团中央网络公开课授课教师，BBC、观察者网专栏作家。
