@@ -1,6 +1,6 @@
 ---
 layout: archive-taxonomies
 type: categories
-title: Categories
+title: 栏目
 permalink: /categories/
 ---
