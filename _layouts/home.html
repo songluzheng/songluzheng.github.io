@@ -33,7 +33,7 @@ layout: default
           {%- endif -%}
         </p>
         {%- if post.show_excerpts != false -%}
-          <div class="post-excerpt">{{ post.excerpt | strip_html | truncate: 240 }}</div>
+          <div class="post-excerpt">{{ post.excerpt | strip_html | truncate: 240 }}  <a href="{{ site.url }}{{ post.url }}">详情</a></div>
         {%- endif -%}
       </li>
       {%- endfor -%}
