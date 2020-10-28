@@ -40,15 +40,15 @@ pagination: 10
 # date_format:
 
 # Build settings
-# theme: minima
 plugins:
-  - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-paginate
 
-remote_theme: ngzhio/jekyll-theme-hamilton
+exclude:
+  - scripts/
+  - jekyll-theme-hamilton.gemspec
 
 # Exclude from processing.
 # The following items will not be processed, by default.
