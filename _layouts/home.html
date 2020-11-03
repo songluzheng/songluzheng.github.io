@@ -42,6 +42,9 @@ layout: default
     {% if site.paginate %}
       <div class="pager">
         <ul class="pagination">
+        {%- if paginator.page > 3 %}
+          <li><a href="{{site.url}}">首页</a></li>
+        {%- endif %}
         {%- if paginator.previous_page %}
           <li><a href="{{ paginator.previous_page_path | relative_url }}" class="previous-page">{{ paginator.previous_page }}</a></li>
         {%- else %}
@@ -53,6 +56,7 @@ layout: default
         {%- else %}
           <li><div class="pager-edge">•</div></li>
         {%- endif %}
+          <li><div class="pager-edge">共 {{ paginator.total_posts }} 篇</div></li>
         </ul>
       </div>
     {%- endif %}

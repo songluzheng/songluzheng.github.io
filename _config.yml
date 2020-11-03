@@ -36,7 +36,6 @@ logo: logo.jpg
 # disqus:
 
 lang: zh-CN
-pagination: 10
 # date_format:
 
 # Build settings
@@ -50,6 +49,8 @@ exclude:
   - scripts/
   - jekyll-theme-hamilton.gemspec
 
+# pagination
+paginate: 10
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
